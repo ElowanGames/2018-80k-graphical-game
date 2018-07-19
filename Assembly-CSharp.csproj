@@ -51,7 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\door_click.cs" />
+     <Compile Include="Assets\Scripts\door_click_1next.cs" />
+     <Compile Include="Assets\Scripts\door_click_2next.cs" />
+     <Compile Include="Assets\test.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/Angela/Documents/GitHub/CMPM80K Graphical/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
