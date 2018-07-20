@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\cloud_click_correct.cs" />
+     <Compile Include="Assets\Scripts\cloud_click_incorrect.cs" />
      <Compile Include="Assets\Scripts\door_click_1next.cs" />
      <Compile Include="Assets\Scripts\door_click_2next.cs" />
      <Compile Include="Assets\test.cs" />
