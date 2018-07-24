@@ -65,10 +65,13 @@
     <Compile Include="Assets\exit_game_on_click.cs" />
     <Compile Include="Assets\life_updater.cs" />
     <Compile Include="Assets\move_to_loc.cs" />
+    <Compile Include="Assets\player_movement.cs" />
     <Compile Include="Assets\Scripts\cloud_click_correct.cs" />
     <Compile Include="Assets\Scripts\cloud_click_incorrect.cs" />
     <Compile Include="Assets\Scripts\door_click_1next.cs" />
     <Compile Include="Assets\Scripts\door_click_2next.cs" />
+    <Compile Include="Assets\skiplevel_trigger.cs" />
+    <Compile Include="Assets\tominigame_trigger.cs" />
     <Compile Include="Assets\word_updater.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/sammy/Documents/game_proj/2018-80k-graphical-game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
