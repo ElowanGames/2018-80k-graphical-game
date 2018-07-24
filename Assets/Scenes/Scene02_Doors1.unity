@@ -170,7 +170,7 @@ GameObject:
   - component: {fileID: 205418000}
   - component: {fileID: 205417999}
   - component: {fileID: 205417998}
-  - component: {fileID: 205417997}
+  - component: {fileID: 205418001}
   m_Layer: 0
   m_Name: door_skiplevel
   m_TagString: Untagged
@@ -178,18 +178,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &205417997
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114568440095713838, guid: b4b0f875ea5881f4596bb81472c8f959,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 205417996}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfe99898223228643900c33287782028, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &205417998
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -277,6 +265,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &205418001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 205417996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40fb3e3973126d849863383ce9c58414, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
