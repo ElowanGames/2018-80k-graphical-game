@@ -74,6 +74,8 @@
     <Compile Include="Assets\Scripts\cloud_click_incorrect.cs" />
     <Compile Include="Assets\Scripts\door_click_1next.cs" />
     <Compile Include="Assets\Scripts\door_click_2next.cs" />
+    <Compile Include="Assets\Scripts\ending_data.cs" />
+    <Compile Include="Assets\skip_to_ending.cs" />
     <Compile Include="Assets\skiplevel_trigger.cs" />
     <Compile Include="Assets\TextContinue.cs" />
     <Compile Include="Assets\textContinue2.cs" />

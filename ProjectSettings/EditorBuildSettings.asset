@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene06_happyEnd.unity
     guid: b8418fd8116ccbf47a17ba37e14488ec
+  - enabled: 1
+    path: Assets/Scenes/Scene06_sadEnd.unity
+    guid: e8de33d512a29db4ea94be61e7d345f7
   m_configObjects: {}

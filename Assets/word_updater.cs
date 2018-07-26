@@ -27,6 +27,7 @@ public class word_updater : MonoBehaviour {
             nextWordIndex++;
         } else
         {
+            ending_data.UpdateNum();
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }

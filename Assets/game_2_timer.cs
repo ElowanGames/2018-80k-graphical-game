@@ -28,7 +28,6 @@ public class game_2_timer : MonoBehaviour {
         else
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
-            // game over screen should occur
         }
     }
 
