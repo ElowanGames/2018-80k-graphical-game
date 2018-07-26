@@ -70,6 +70,7 @@
     <Compile Include="Assets\life_updater.cs" />
     <Compile Include="Assets\move_to_loc.cs" />
     <Compile Include="Assets\player_movement.cs" />
+    <Compile Include="Assets\quit.cs" />
     <Compile Include="Assets\Scripts\cloud_click_correct.cs" />
     <Compile Include="Assets\Scripts\cloud_click_incorrect.cs" />
     <Compile Include="Assets\Scripts\door_click_1next.cs" />
