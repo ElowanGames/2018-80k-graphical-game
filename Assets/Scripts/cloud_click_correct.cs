@@ -27,6 +27,8 @@ public class cloud_click_correct : MonoBehaviour, IPointerClickHandler
         movement.speed = 0;
         movement.isClickedOn = true;
         isClickedOn = true;
+        RectTransform rt = this.GetComponent<RectTransform>();
+        rt.sizeDelta = new Vector2(315, 315);
     }
 
     private void Update()
