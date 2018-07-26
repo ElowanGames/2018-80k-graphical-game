@@ -7,7 +7,7 @@ public class current_level : MonoBehaviour
     public int the_level = 1;
 
     // Use this for initialization
-    private void UpdateLevel()
+    public void UpdateLevel()
     {
         the_level++;
     }
