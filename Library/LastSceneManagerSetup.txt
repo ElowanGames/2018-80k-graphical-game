@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Scene02_Doors1.unity
+- path: Assets/Scenes/Scene06_happyEnd.unity
   isLoaded: 1
   isActive: 1
